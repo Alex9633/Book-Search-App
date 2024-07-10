@@ -1,0 +1,58 @@
+body {
+    /* font-family: Arial, sans-serif; */
+    background: #00496c;
+}
+
+.cover-top {
+    height: 45px;
+    max-width: 770px;
+    margin: auto;
+    background-image: url("../../../public/img/cover_top.png");
+}
+
+.cover-main {
+    max-width: 770px;
+    margin: -22px auto auto;
+    background: url("../../../public/img/cover.png") repeat-y;
+}
+
+.bookmark {
+    float: right;
+    margin-right: 40px;
+    margin-top: -28px;
+    height: 131px;
+    width: 81px;
+    background-image: url("../../../public/img/bookmark.jpg");
+}
+
+.container {
+    width: 690px;
+    margin-left: 40px;
+}
+
+.header-lines {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+}
+
+.header-lines__one {
+    width: 325px;
+}
+
+.header-lines__two {
+    width: 325px;
+    margin-left: 40px;
+}
+
+.no-results {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cover-bot {
+    height: 130px;
+    max-width: 770px;
+    margin: auto;
+    background-image: url("../../../public/img/cover_bot.png");
+}

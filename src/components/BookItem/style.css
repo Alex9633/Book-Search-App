@@ -1,0 +1,11 @@
+.book-list__item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left: 3px solid #444;
+    break-inside: avoid;
+}
+
+.book-list__item--highlight {
+    font-weight: bold;
+    color: red;
+}
