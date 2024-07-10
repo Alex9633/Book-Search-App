@@ -24,6 +24,10 @@ The webpage would be hosted on: [https://BookSearchAppv1.com](https://BookSearch
 
 ## Run it Locally
 
+(The following commands are intended to be run in a Bash shell)
+
+<br/>
+
 1. **Clone the repository:**
 
 ```bash
@@ -42,8 +46,7 @@ The webpage would be hosted on: [https://BookSearchAppv1.com](https://BookSearch
 
 <br/>
 
-3. Open a browser:
-Go to [http://localhost:3000](http://localhost:3000) to view the app.
+3. **Open a browser and go to** [http://localhost:3000](http://localhost:3000) **to view the app.**
 
 <br/>
 <br/>
