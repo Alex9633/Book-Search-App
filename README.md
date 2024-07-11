@@ -15,9 +15,9 @@ This is a simple React application that allows users to search and sort a list o
 
 ## Webpage URL
 
-The webpage would be hosted on: [https://BookSearchAppv1.com](https://BookSearchAppv1.com)
+The webpage is currently hosted on: [https://book-search-app-gray-eight.vercel.app](https://book-search-app-gray-eight.vercel.app)
 
-**Note:** I can host the app through Apache whenever needed.
+**Note:** The current service allows up to 3,000 requests per day.
 
 <br/>
 <br/>
